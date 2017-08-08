@@ -1,0 +1,239 @@
+.header
+{
+	
+	
+	position: fixed;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+.header1 h1{
+	text-align: center;
+	font-family:Courier;
+	color:#b4b2ae;
+    margin-top: 25px;
+
+}
+
+.header1
+{
+	 
+	float: left;
+
+	width: 210px;
+	
+	height: 80px;
+
+border-right: solid;
+border-color: #b4b2ae;
+border-radius: 25px;
+border-width: 2px;
+border-top-right-radius: 5px;
+
+}
+.header2
+{
+	 
+float: left;
+
+	width: 980px;
+	height: 90px;
+text-align: right;
+
+
+}
+
+.header3
+{
+	 width: 100px;
+float: left;
+border-left: solid;
+height: 80px;
+border-color: #b4b2ae;
+border-width: 2px;
+
+
+
+}
+
+body
+{
+	background-color: #b4b2ae;
+}
+.hero-unit
+{
+
+  margin-top:-10px;
+  background-image: url("/home/training/workspace/firstwebsite_css-html/img/hero.jpg");
+  height:50%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:-8px;
+  margin-right:-8px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.header
+{
+
+	background-color: white;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: -22px;
+	height: 80px;
+}
+.header2 ul
+{
+	margin-top: 38px;
+	list-style: none;
+
+}
+.header2 li
+{
+	font-weight: bold;
+color: #b4b2ae;
+display: inline;
+margin-left: 15px;
+margin-right: 20px;
+
+}
+a
+{
+	text-decoration: none;
+	color:#b4b2ae; 
+}
+a:hover {
+   
+}
+.icon
+{
+	float:left;
+	color: #b4b2ae;
+	margin-top: 35px;
+	margin-left: 25px;
+
+}
+.icon2
+{
+float:left;
+color: #b4b2ae;
+	margin-top: 35px;
+	margin-left: 20px;
+	
+}
+
+.content
+
+{
+margin-top:-12px;
+	margin-left: -3px;
+	background-color: white;
+}
+
+.content1
+{
+	float: left;
+	margin-left: 4px;
+	margin-top:4px;
+	
+	height: 400px;
+	width: 410px;
+	border-width: 1px;
+	border-style: solid;;
+	border-color: white;
+	
+}
+
+.content-below
+{
+	margin-left: 3px;
+
+	margin-top: 380px;
+	height: 500px;
+	border-style: solid;
+	border-color: white;
+	background-color: orange;
+	
+	
+}
+.content-below2
+{
+	margin-left: 3px;
+
+	background-color: #178a74;
+	height: 100px;
+	border-style: solid;
+	border-color: white;
+	
+}
+.footer
+{
+
+  margin-top:5px;
+  background-color: white;
+  height:16%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:-8px;
+  margin-right:-8px;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+
+h2
+{
+
+background-position:center;
+	background-color: grey;
+	margin-top: 20px;
+	font-style: cursive;
+    color: white;
+	font-size: 60px;
+opacity: 0.8;
+}
+.content-below2 p
+{
+	margin-left: 10px;
+color: white;
+
+}
+
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+   
+   .contact
+   {
+
+	
+	margin-left: 4px;
+	margin-top:4px;
+
+	
+	color:grey;
+	
+   }
+   a:hover
+   {
+background-color:grey;
+   }
+
+  
